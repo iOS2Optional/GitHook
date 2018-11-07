@@ -21,4 +21,4 @@ IndentWidth: 4
 ObjCSpaceAfterProperty: true
 # ObjCSpaceAfterProperty: false
 
-Language:ObjC
+Language: ObjC
