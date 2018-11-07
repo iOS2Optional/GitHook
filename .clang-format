@@ -4,7 +4,7 @@ BasedOnStyle: LLVM
 ColumnLimit: 0
 
 # 不自动清除代码中的空行
-MaxEmptyLinesToKeep: 5
+MaxEmptyLinesToKeep: 3
 
 # 按照LLVM Style调整{}的位置即可
 

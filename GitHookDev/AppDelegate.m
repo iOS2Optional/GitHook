@@ -17,6 +17,7 @@
 // 朱鸿
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    // shis s
     return YES;
 }
 

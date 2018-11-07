@@ -14,8 +14,6 @@
 
 
 
-
-
 @property (strong, nonatomic) UIWindow *window1;
 
 
@@ -24,14 +22,10 @@
 
 
 
-
-
 @property (strong, nonatomic) UIWindow *window3;
 
 
 @property (strong, nonatomic) UIWindow *window233;
-
-
 
 
 
