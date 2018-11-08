@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "post-receive post-receive 传递的参数：$*"
